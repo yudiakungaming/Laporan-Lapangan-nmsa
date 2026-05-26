@@ -1,0 +1,7 @@
+Pillow>=10.0.0
+google-api-python-client>=2.118.0
+google-auth>=2.27.0
+google-auth-httplib2>=0.2.0
+firebase-admin>=6.4.0
+Flask>=2.3.0
+gunicorn>=21.2.0
